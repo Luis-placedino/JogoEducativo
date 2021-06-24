@@ -3,6 +3,7 @@ import random
 import time
 pygame.init() 
 
+
 icone = pygame.image.load("assets/doce.png")
 pygame.display.set_caption("")
 pygame.display.set_icon(icone)
